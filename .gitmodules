@@ -1,3 +1,6 @@
 [submodule "subrepo_directory/subrepo1"]
 	path = subrepo_directory/subrepo1
 	url = https://github.com/RenesasMan/subrepo1.git
+[submodule "subrepo_directory/subrepo2"]
+	path = subrepo_directory/subrepo2
+	url = https://github.com/RenesasMan/subrepo2.git
