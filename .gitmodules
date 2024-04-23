@@ -7,3 +7,6 @@
 [submodule "subrepo_directory/subrepo3"]
 	path = subrepo_directory/subrepo3
 	url = https://github.com/RenesasMan/subrepo3.git
+[submodule "subrepo_directory/subrepo3_new_branch"]
+	path = subrepo_directory/subrepo3_new_branch
+	url = https://github.com/RenesasMan/subrepo3.git
